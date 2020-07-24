@@ -1,2 +1,2 @@
-# water-treatement-plant
-Supervised machine learning project on water treatment plant
+# Drugs
+Supervised machine learning project on drugs!
