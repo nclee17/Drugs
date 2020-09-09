@@ -11,4 +11,28 @@ The goal is to predict whether an individual would be a hard drug user.
 
 ### Overview
 
+The dataset is a record of 1885 respondents attributes on:
+- Personality measurements:
+  - NEO-FFI-R (Neuroticism, Extraversion, Openness to experience, Agreeableness, and Conscientiousness)
+  - BIS-11 (Impulsivity)
+  - ImpSS (Sensation Seeking)
+- Demographic information:
+  - Level of education
+  - Age
+  - Gender
+  - Country of residence
+  - Ethnicity
+- Self-reported drug consumption on 18 substances + Semeron:<br>
+Alcohol, Amphetamines, Amyl nitrite, Benzodiazepine, Cannabis, Chocolate, Cocaine, Caffeine, Crack, Ecstasy, Heroin, Ketamine, Legal highs, LSD, Methadone, Mushrooms, Nicotine and Volatile substance 
+
+and one fictitious drug (Semeron)
+  0. fdakj
+  1. dflkj
+
+There are 10,299 observations within the dataset, with training and test set split at 70% / 30%.
+
+<img src="img/">
+
+## Data Visualisation
+
 The jupyter notebook was the code that was used in examining the study, 
